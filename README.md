@@ -1,2 +1,7 @@
 # pythonwelcometasks
- A PYTHON SCRIPT (example and basic) TO DISPLAY A PYTHON WELCOME SCREEN TO PERFORM CERTAIN TASKS!!(open to improvements)
+A python script (example and basic) to display a python welcome screen to perform certain task (open to improvements)
+
+#### Usage
+```
+python start.py
+```
